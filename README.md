@@ -1,4 +1,4 @@
-# OpenGoKat
+# OpenGoKart
 This is somewhat throwaway repo to bootstrap v1 of everything related to OpenGoKart project.
 
 The aim of the project is to have a detailed plan/manual/build instructions for a go-kart. The construction should be simple enough for anyone to build it with some basic tools. The target audience are fathers with children looking to do stuff together.
@@ -13,5 +13,5 @@ Once [stackedit supports editing github wikis](https://github.com/benweet/stacke
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDE0MjY0NF19
+eyJoaXN0b3J5IjpbNDM4MzgyMjEwXX0=
 -->
