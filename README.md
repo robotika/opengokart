@@ -6,7 +6,7 @@ The aim of the project is to have a detailed plan/manual/build instructions for 
 
 As much of the tools used to develop the go-kart as possible should be open source. The same holds for all components and sub-assemblies.
 
-I'd be really happy if subsequent design resembled something like a [GoPed TRQ 46 trail ripper quad](http://goped.com/karts/trq-46/).
+I'd be really happy if the subsequent design resembled something like a [GoPed TRQ 46 trail ripper quad](http://goped.com/karts/trq-46/) but with an electric drive.
 
 ![goped trail ripper](goped-trail-ripper.jpg)
 
@@ -14,5 +14,5 @@ Once [stackedit supports editing github wikis](https://github.com/benweet/stacke
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NzM5NzMyXX0=
+eyJoaXN0b3J5IjpbLTIwNzg0NjQ0MDBdfQ==
 -->
